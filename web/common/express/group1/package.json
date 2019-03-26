@@ -1,0 +1,22 @@
+{
+  "name": "tutorialspoint",
+  "version": "1.0.0",
+  "description": "Learning \"Node.js - Express Framework\" on the Tutorialspoint.com",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "ReadyThenRun",
+  "license": "ISC"
+}
